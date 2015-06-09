@@ -1,0 +1,7 @@
+{
+	"name" : "Clamp.js",
+	"version" : "1.0",
+	"main" : [
+		"clamp.min.js",
+	]
+}
